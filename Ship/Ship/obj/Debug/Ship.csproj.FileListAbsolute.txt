@@ -1,0 +1,10 @@
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\bin\Debug\Ship.exe.config
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\bin\Debug\Ship.exe
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\bin\Debug\Ship.pdb
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\obj\Debug\Ship.csprojResolveAssemblyReference.cache
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\obj\Debug\Ship.Properties.Resources.resources
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\obj\Debug\Ship.csproj.GenerateResource.Cache
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\obj\Debug\Ship.exe
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\obj\Debug\Ship.pdb
+C:\Users\MR.AGHAYEV\source\repos\Ship\Ship\obj\Debug\Ship.Form1.resources
